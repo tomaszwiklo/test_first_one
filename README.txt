@@ -1,2 +1,2 @@
-To jest plik README naszego nowego repozytorium.
-README
+To jest program będący prostym, testowym kalkulatorem.
+Autor T. Wiklo
